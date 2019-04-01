@@ -20,7 +20,7 @@ const doesOneElementContainText = function(client, selector, expected) {
 export default function text(client, chai, utils, options) {
     const config = configWithDefaults(options);
 
-    chai.Assertion.addMethod('matches', function(expected) {
+    chai.Assertion.addMethod('match', function(expected) {
         const selector =  utils.flag(this, 'object');
         const immediately = utils.flag(this, 'immediately');
 
