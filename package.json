@@ -12,7 +12,8 @@
     "url": "atlassian.com"
   },
   "contributors": [
-    "Joe Marty (https://github.com/mltsy)"
+    "Joe Marty (https://github.com/mltsy)",
+    "Rich Peters <16782353+rpii@users.noreply.github.com>"
   ],
   "engines": {
     "node": ">= 8.11.0"
