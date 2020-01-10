@@ -1,5 +1,5 @@
 // Merge namespace with global chai
-    global {
+    declare global {
         export namespace Chai {
             interface Assertion {
                 count: (count: number) => void;
