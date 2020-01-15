@@ -1,6 +1,6 @@
 {
   "name": "@rpii/chai-webdriverio",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Chai assertions for use with webdriverio",
   "license": "Apache-2.0",
   "repository": "rpii/chai-webdriverio",
