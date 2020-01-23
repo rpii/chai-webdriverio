@@ -1,11 +1,11 @@
 {
   "name": "@rpii/chai-webdriverio",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Chai assertions for use with webdriverio",
   "license": "Apache-2.0",
   "repository": "rpii/chai-webdriverio",
   "main": "dist/index.js",
-  "typings": "index.d.ts",
+  "types": "chai-webdriverio.d.ts",
   "author": {
     "name": "Marco De Jongh",
     "email": "mdejongh@atlassian.com",
