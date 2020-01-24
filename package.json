@@ -1,9 +1,9 @@
 {
   "name": "@rpii/chai-webdriverio",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Chai assertions for use with webdriverio",
   "license": "Apache-2.0",
-  "repository": "rpii/chai-webdriverio",
+  "repository": "git+https://github.com/rpii/chai-webdriverio.git",
   "main": "dist/index.js",
   "types": "chai-webdriverio.d.ts",
   "author": {
